@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.container{
+	height:100vh;
+	background-color:purple;
+}
+.container button{
+	padding:10px;
+	margin:10px;
+	background-color:transparent;
+}
